@@ -3,7 +3,7 @@
     <header class="text-center px-5 py-24">
       <img class="inline-block w-48 h-48" src="/images/mary.jpg"/>
       <h1 class="mt-8 text-4xl font-semibold">Hello! I am Mary.</h1>
-      <p class="mt-4 mb-8 text-xl">I'm a sassy assy currently based in Barcelona.</p>
+      <p class="mt-4 mb-8 text-xl">I'm a sassy assy currently based in Barcelona, Spain.</p>
       <p class="mt-4 mb-8 text-xl">I leverage my 12+ years of digital advertising experience to help digital publishers of all sizes maximise their revenue.</p>
       <ul>
         <li
