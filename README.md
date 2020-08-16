@@ -1,10 +1,8 @@
-# iamdan.me
-
-The iamdan.me website.
+My personal website.
 
 ## Developing
 ```bash
-git clone https://github.com/dansalias/iamdan.me
+git clone https://github.com/maryiskickass/mcb
 npm install
 npm run dev
 ```
