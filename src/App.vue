@@ -3,8 +3,8 @@
     <header class="text-center px-5 py-24">
       <img class="inline-block w-48 h-48" src="/mcb/images/mary.jpg"/>
       <h1 class="mt-8 text-4xl font-semibold">Hello! I am Mary.</h1>
-      <p class="mt-4 mb-8 text-xl">I'm a sassy assy currently based in Barcelona, Spain.</p>
-      <p class="mt-4 mb-8 text-xl">I leverage my 12+ years of digital advertising experience to help digital publishers of all sizes maximise their revenue.</p>
+      <p class="mt-4 mb-8 text-xl">I am a digital media professional currently based in Barcelona, Spain.</p>
+      <p class="mt-4 mb-8 text-xl">I leverage my 12+ years of online advertising experience to help publishers of all sizes maximize their revenue.</p>
       <ul>
         <li
           v-for="(link, index) in socialLinks"
