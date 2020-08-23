@@ -32,10 +32,6 @@ export default {
   data: () => ({
     socialLinks: [
       {
-        icon: 'twitter',
-        url: 'https://twitter.com/maryiskickass',
-      },
-      {
         icon: 'linkedin',
         url: 'https://linkedin.com/in/marycatherinebrannen',
       },
