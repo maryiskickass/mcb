@@ -4,7 +4,7 @@
       <img class="inline-block w-48 h-48" src="/mcb/images/mary.jpg"/>
       <h1 class="mt-8 text-4xl font-semibold">Hello! I am Mary.</h1>
       <p class="mt-4 mb-8 text-xl">I am a digital media professional currently based in Barcelona, Spain.</p>
-      <p class="mt-4 mb-8 text-xl">I leverage my 12+ years of online advertising experience to help publishers of all sizes maximize their revenue.</p>
+      <p class="mt-4 mb-8 text-xl">I leverage my 12+ years of online advertising experience to help companies of all sizes maximize their revenue.</p>
       <p class="mt-4 mb-8 text-xl">I'm passionate about integrity, equality and diversity - and how a focus on purposeful inclusion in the workplace will bring success for both employers and employees.</p>
       <ul>
         <li
