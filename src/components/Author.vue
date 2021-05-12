@@ -1,19 +1,26 @@
 <template>
 	<div class="author">
 
-		<g-image alt="Author image" class="author__image" src="~/assets/images/author.jpg" width="180" height="180" blur="5" />
+		<g-image alt="Author image" class="author__image" src="~/assets/images/mary.gif" width="180" height="180" blur="5" />
 
 		<h1 v-if="showTitle" class="author__site-title">
 			{{ $static.metadata.siteName }}
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
-		</p>
+      I am a digital media professional currently based in Barcelona, Spain.
+    </p>
+		<p class="author__intro">
+      I leverage my 12+ years of online advertising experience to help companies of all sizes maximize their revenue.
+    </p>
+		<p class="author__intro">
+      I'm passionate about integrity, equality and diversity - and how a focus on purposeful inclusion in the workplace will bring success for both employers and employees.
+    </p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/maryiskickass">Follow on Twitter</a>
+      <a href="//linkedin.com/in/marycatherinebrannen">LinkedIn</a>
+			<a href="//github.com/maryiskickass">GitHub</a>
 		</p>
 
 	</div>

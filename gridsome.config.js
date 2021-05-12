@@ -7,8 +7,8 @@
 module.exports = {
   siteUrl: 'https://maryiskickass.github.io',
   pathPrefix: '/mcb',
-  siteName: 'Gridsome Blog Starter',
-  siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
+  siteName: 'Hello! I am Mary.',
+  siteDescription: 'I am a digital media professional currently based in Barcelona, Spain.',
 
   templates: {
     Post: '/:title',
