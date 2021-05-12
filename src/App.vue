@@ -56,8 +56,8 @@ export default {
     ],
     links: [
       {
-        title: 'Cool Website',
-        url: 'https://iamdan.me/',
+        title: 'Google Analytics | Quick Features',
+        url: 'https://ga-dev-tools.appspot.com/',
       },
     ],
     socialLinks: [
