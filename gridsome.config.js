@@ -5,6 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
+  siteUrl: 'https://maryiskickass.github.io',
+  pathPrefix: '/mcb',
   siteName: 'Gridsome Blog Starter',
   siteDescription: 'A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.',
 
